@@ -1,5 +1,3 @@
 Esto es la segunda prueba del cambio
 
-Prueba para actualizar GitHub
-
-Este es
+documento ajustado

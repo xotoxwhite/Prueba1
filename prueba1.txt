@@ -1,5 +1,3 @@
 Esto es la segunda prueba del cambio
 
-Este se conserva
-
-Intento2
+Clon del inicial
